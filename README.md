@@ -3,5 +3,5 @@
 [![Uptime Robot status](https://img.shields.io/uptimerobot/status/m793209744-55311b43a78be482a40ded22?label=my-server)](https://stats.uptimerobot.com/gDjYXtqnWz)
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=symant233&count_private=true&show_icons=true" height="160" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=symant233&langs_count=8&hide=html,css&layout=compact&card_width=280" height="160" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=symant233&langs_count=8&layout=compact" height="160" /></a>
 
