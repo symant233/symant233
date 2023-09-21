@@ -20,4 +20,12 @@
 <!-- <a href="#"><img src="https://github-readme-stats-crlnmfdzg-tifan.vercel.app/api/top-langs/?username=symant233&langs_count=8&layout=compact" height="160" /></a> -->
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript     20 hrs 18 mins  ██████████████████████▓░░   90.52 %
+JavaScript     45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Less           41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+JSON           35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+```
+
 <!--END_SECTION:waka-->
