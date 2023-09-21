@@ -4,7 +4,7 @@
 
 **Web Skills**
 
-[![Web Developer](https://skillicons.dev/icons?i=html,css,javascript,typescript,vue,react,vite,webpack,electron,sass&theme=light)](#)
+[![Web Developer](https://skillicons.dev/icons?i=typescript,javascript,react,vue,vite,webpack,electron,sass&theme=light)](#)
 
 **Backend Skills**
 
@@ -12,9 +12,11 @@
 
 **Tools**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,bash,linux,latex&theme=light)](#)
+[![Tools](https://skillicons.dev/icons?i=git,vscode,bash,linux,latex,cloudflare,vercel&theme=light)](#)
 
 **Activities**
 
 <a href="#"><img src="https://github-readme-stats-crlnmfdzg-tifan.vercel.app/api?username=symant233&count_private=true&show_icons=true" height="160" /></a>
+<!---
 <a href="#"><img src="https://github-readme-stats-crlnmfdzg-tifan.vercel.app/api/top-langs/?username=symant233&langs_count=8&layout=compact" height="160" /></a>
+-->
