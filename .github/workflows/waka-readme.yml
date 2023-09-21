@@ -16,3 +16,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LANG_COUNT: 4
+          BLOCKS: =#
+          SHOW_TIME: true
+          CODE_LANG: html
