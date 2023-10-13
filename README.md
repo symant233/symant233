@@ -22,7 +22,8 @@
 <!--START_SECTION:waka-->
 
 ```html
-No activity tracked
+JavaScript   0 secs          ################=========   64.03 %
+Markdown     0 secs          #########================   35.97 %
 ```
 
 <!--END_SECTION:waka-->
