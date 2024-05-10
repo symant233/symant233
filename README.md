@@ -22,9 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```html
-Python        6 hrs 39 mins   #########################   99.86 %
-Image (svg)   0 secs          =========================   00.12 %
-Other         0 secs          =========================   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
