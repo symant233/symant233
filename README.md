@@ -22,7 +22,10 @@
 <!--START_SECTION:waka-->
 
 ```html
-No activity tracked
+Python        52 mins         #################========   67.85 %
+JavaScript    14 mins         #####====================   18.08 %
+HTML          6 mins          ##=======================   08.48 %
+Image (svg)   3 mins          #========================   05.13 %
 ```
 
 <!--END_SECTION:waka-->
