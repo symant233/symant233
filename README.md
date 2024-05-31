@@ -22,10 +22,8 @@
 <!--START_SECTION:waka-->
 
 ```html
-Nginx configuration file   28 mins         ########=================   31.33 %
-Go                         27 mins         #######==================   29.84 %
-Python                     15 mins         ####=====================   17.22 %
-JavaScript                 12 mins         ###======================   13.46 %
+INI     3 mins          ########################=   97.06 %
+Other   0 secs          #========================   02.94 %
 ```
 
 <!--END_SECTION:waka-->
