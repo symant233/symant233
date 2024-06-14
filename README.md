@@ -22,10 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```html
-Markdown      1 hr 56 mins    ##############===========   57.41 %
-JavaScript    29 mins         ####=====================   14.78 %
-JSON          29 mins         ####=====================   14.52 %
-Python        14 mins         ##=======================   07.12 %
+JavaScript   3 mins          #########################   100.00 %
 ```
 
 <!--END_SECTION:waka-->
