@@ -22,7 +22,10 @@
 <!--START_SECTION:waka-->
 
 ```html
-No activity tracked
+Docker                     3 hrs 9 mins    #######==================   28.80 %
+Markdown                   1 hr 32 mins    ####=====================   14.01 %
+YAML                       1 hr 14 mins    ###======================   11.29 %
+JSON                       57 mins         ##=======================   08.74 %
 ```
 
 <!--END_SECTION:waka-->
