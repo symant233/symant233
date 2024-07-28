@@ -4,7 +4,7 @@
 
 **Web Skills**
 
-[![Web Developer](https://skillicons.dev/icons?i=typescript,javascript,react,vue,vite,webpack,electron,sass&theme=light)](#)
+[![Web Developer](https://skillicons.dev/icons?i=typescript,react,vue,vite,electron,tailwind,sass&theme=light)](#)
 
 **Backend Skills**
 
