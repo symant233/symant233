@@ -22,10 +22,10 @@
 <!--START_SECTION:waka-->
 
 ```html
-TypeScript    27 hrs 26 mins  #####################====   85.79 %
-JavaScript    1 hr 21 mins    #========================   04.23 %
-Markdown      1 hr 17 mins    #========================   04.06 %
-JSON          53 mins         #========================   02.81 %
+TypeScript    13 hrs 52 mins  ###############==========   60.85 %
+JavaScript    5 hrs 37 mins   ######===================   24.65 %
+JSON          1 hr 4 mins     #========================   04.71 %
+Markdown      53 mins         #========================   03.94 %
 ```
 
 <!--END_SECTION:waka-->
