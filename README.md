@@ -2,9 +2,16 @@
 [![Greasy Fork](https://img.shields.io/greasyfork/dd/390421?color=orange&label=Beautify&logo=javascript)](https://greasyfork.org/zh-CN/scripts/390421-beautify)
 [![Uptime Robot status](https://img.shields.io/uptimerobot/status/m793209744-55311b43a78be482a40ded22?label=my-server)](https://stats.uptimerobot.com/gDjYXtqnWz)
 
+**Professional Skills**
+
+[![Web Developer](https://skillicons.dev/icons?i=typescript,react,tailwind&theme=light)](#)
+
+<details>
+<summary>Additional</summary>
+
 **Web Skills**
 
-[![Web Developer](https://skillicons.dev/icons?i=typescript,react,vue,vite,electron,tailwind,sass&theme=light)](#)
+[![Web Developer](https://skillicons.dev/icons?i=javascript,vue,vite,electron,sass,less&theme=light)](#)
 
 **Backend Skills**
 
@@ -13,6 +20,8 @@
 **Tools**
 
 [![Tools](https://skillicons.dev/icons?i=git,vscode,bash,linux,latex,cloudflare,vercel&theme=light)](#)
+
+</details>
 
 **Weekly Activities**
 
