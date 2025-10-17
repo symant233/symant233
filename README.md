@@ -31,7 +31,10 @@
 <!--START_SECTION:waka-->
 
 ```html
-Other   0 secs          #########################   100.00 %
+TypeScript   8 hrs 31 mins   ######################===   88.73 %
+JavaScript   52 mins         ##=======================   09.12 %
+Other        5 mins          =========================   00.92 %
+SSH Config   3 mins          =========================   00.64 %
 ```
 
 <!--END_SECTION:waka-->
