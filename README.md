@@ -31,10 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```html
-TypeScript    6 hrs 2 mins    #######################==   93.74 %
-JavaScript    17 mins         #========================   04.61 %
-Less          4 mins          =========================   01.04 %
-Image (svg)   2 mins          =========================   00.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
