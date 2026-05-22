@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/714d0fb6-6c41-4163-8554-4d4274080ef9.svg)](https://wakatime.com/@714d0fb6-6c41-4163-8554-4d4274080ef9)
 [![Greasy Fork](https://img.shields.io/greasyfork/dd/390421?color=orange&label=Beautify&logo=javascript)](https://greasyfork.org/zh-CN/scripts/390421-beautify)
-[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m800558991-b33897ca1715bbb6d8203686?label=my-server)](https://stats.uptimerobot.com/gDjYXtqnWz)
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m802423480-344f29859a2b612b11605299?label=my-server)](https://stats.uptimerobot.com/gDjYXtqnWz)
 
 **Professional Skills**
 
